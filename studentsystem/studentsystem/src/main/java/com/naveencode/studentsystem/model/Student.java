@@ -38,6 +38,6 @@ public class Student {
 		this.name = name;
 		this.address = address;
 	}
-	
+	//just for git streak
 
 }
