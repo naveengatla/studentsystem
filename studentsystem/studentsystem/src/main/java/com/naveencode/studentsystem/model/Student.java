@@ -39,5 +39,8 @@ public class Student {
 		this.address = address;
 	}
 	//just for git streak
+	public Student() {
+		super();
+	}
 
 }
